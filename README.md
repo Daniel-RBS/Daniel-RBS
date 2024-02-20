@@ -5,7 +5,7 @@
 
 - 📫 Você pode me achar aqui **daniel.rbsantos1@gmail.com**
 
-- ⚡ Fun fact **Adoro Games e sou músico**
+- ⚡ Fun fact **Adoro Games no geral e sou músico**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
