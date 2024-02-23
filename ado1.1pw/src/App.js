@@ -2,7 +2,7 @@
 *         SENAC - TADS - Programacao Web *
 *     ADO #02 Trabalhando As Rotas e LINKS *
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*
-*     Nome : << Ian Saggioratto Pereira > > 
+*     Nome : << Daniel Richard> > 
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/
 
 import RoutesApp from './route';
