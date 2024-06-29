@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Adoro Games no geral e sou músico**
 
-<h3 align="left">Você pode falar aqui:</h3>
+<h3 align="left">Você pode falar comigo aqui:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-richard-5b676a242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-richard-5b676a242/" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel_rbsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_rbsantos" height="30" width="40" /></a>
